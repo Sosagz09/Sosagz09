@@ -1,4 +1,4 @@
-# Hey there, I'm Josué 👋
+# Hey there, I'm Daniel 👋
 
 I'm a **Systems and Network Engineering** student from El Salvador 🇸🇻, currently working as **Head of Technical Support & Infrastructure** at [Flynet](https://flynet.sv) — a Salvadoran ISP and tech company.
 
