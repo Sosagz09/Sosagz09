@@ -1,5 +1,5 @@
 # Hey there, I'm Daniel 👋
-I'm a student of **Systems and Network Engineering** from El Salvador 🇸🇻, currently working as **Technical Support & Infrastructure** at [Flynet](https://flynet.sv).
+I'm a student of **Systems and Network Engineering** from El Salvador, currently working as **Technical Support & Infrastructure** at [Flynet](https://flynet.sv).
 
 ---
 
@@ -22,16 +22,6 @@ I'm a student of **Systems and Network Engineering** from El Salvador 🇸🇻, 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-### 🚀 My Projects
-| Project | Description |
-|---|---|
-| [api-rest-libros-nodejs](https://github.com/Sosagz09/api-rest-libros-nodejs) | REST API with Node.js and Express to manage books |
-| [registro-libros-laravel](https://github.com/Sosagz09/registro-libros-laravel) | Web app with Laravel, MySQL and CRUD for book management |
-| [Calculadora-de-promedio_Vue.js](https://github.com/Sosagz09/Calculadora-de-promedio_Vue.js) | Grade average calculator built with Vue.js |
-| [Cinefilos](https://github.com/Sosagz09/Cinefilos) | Movie catalog app built with C# |
 
 ---
 
