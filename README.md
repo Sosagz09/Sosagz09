@@ -1,5 +1,5 @@
 # Hey there, I'm Daniel 👋
-I'm a student of **Systems and Network Engineering**, currently working as **Technical Support & Infrastructure** at [Flynet](https://flynet.sv).
+I'm a student of **Systems and Network Engineering**, currently working as **Technical Support & Infrastructure**
 
 ---
 
