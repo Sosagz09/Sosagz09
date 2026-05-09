@@ -24,12 +24,4 @@ I'm a **Systems and Network Engineering** student from El Salvador 🇸🇻, cur
 
 ---
 
-### 📈 GitHub Stats
-
-![Josué's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sosagz09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sosagz09&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 > *"Still learning, still growing."* 🚀
