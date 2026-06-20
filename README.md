@@ -1,9 +1,9 @@
-# Hey there, I'm Daniel 👋
+# Hey there, I'm Daniel 
 I'm a student of **Systems and Network Engineering**, currently working as **Technical Support & Infrastructure**
 
 ---
 
-### 👨‍💻 A little about me
+### A little about me
 - 🌐 I work with networks, infrastructure and ISP operations daily
 - 🔐 I'm passionate about **cybersecurity** and enjoy learning about exploits and ethical hacking
 - 📚 Currently studying and building small projects to grow my dev skills
@@ -12,7 +12,7 @@ I'm a student of **Systems and Network Engineering**, currently working as **Tec
 
 ---
 
-### 🛠️ Tools & Technologies I work with
+### Tools & Technologies I work with
 ![MikroTik](https://img.shields.io/badge/-MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
